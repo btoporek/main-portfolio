@@ -1,4 +1,4 @@
-# main-portfolio
+# My Portfolio Website
 My current portfolio website made using html5 up, with vanilla JavaScript, CSS, and SASS.
 
 
